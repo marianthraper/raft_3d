@@ -1,4 +1,4 @@
-# Raft_3d
+# Raft_3D
 
 Backend API for managing a 3D printing system.
 
